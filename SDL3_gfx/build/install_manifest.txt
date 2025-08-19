@@ -1,0 +1,10 @@
+/usr/local/lib/libSDL3_gfx.1.0.1.dylib
+/usr/local/lib/libSDL3_gfx.1.dylib
+/usr/local/lib/libSDL3_gfx.dylib
+/usr/local/lib/SDL3_gfx/libSDL3_gfx.a
+/usr/local/include/SDL3_gfx/SDL3_framerate.h
+/usr/local/include/SDL3_gfx/SDL3_gfxPrimitives.h
+/usr/local/include/SDL3_gfx/SDL3_gfxPrimitives_font.h
+/usr/local/include/SDL3_gfx/SDL3_imageFilter.h
+/usr/local/include/SDL3_gfx/SDL3_rotozoom.h
+/usr/local/lib/pkgconfig/sdl3-gfx.pc

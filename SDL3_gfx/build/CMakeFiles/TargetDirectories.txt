@@ -1,0 +1,8 @@
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/SDL3_gfx_Shared.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/SDL3_gfx_Static.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/edit_cache.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/rebuild_cache.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/list_install_components.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/install.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/install/local.dir
+/Users/ethansampson/Physics Engine/SDL3_gfx/build/CMakeFiles/install/strip.dir
